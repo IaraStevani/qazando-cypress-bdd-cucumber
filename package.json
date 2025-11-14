@@ -1,0 +1,27 @@
+{
+  "name": "qazando-cypress-bdd-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IaraStevani/qazando-cypress-bdd-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IaraStevani/qazando-cypress-bdd-cucumber/issues"
+  },
+  "homepage": "https://github.com/IaraStevani/qazando-cypress-bdd-cucumber#readme",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^23.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.7",
+    "cypress": "^15.6.0",
+    "install": "^0.13.0",
+    "npm": "^11.6.2"
+  }
+}
